@@ -1,0 +1,19 @@
+C:\Users\Larissa\Desktop\ListaExercico\slnEX01\prj_EX01\bin\Debug\prj_EX01.exe.config
+C:\Users\Larissa\Desktop\ListaExercico\slnEX01\prj_EX01\bin\Debug\prj_EX01.exe
+C:\Users\Larissa\Desktop\ListaExercico\slnEX01\prj_EX01\bin\Debug\prj_EX01.pdb
+C:\Users\Larissa\Desktop\ListaExercico\slnEX01\prj_EX01\obj\Debug\prj_EX01.csprojAssemblyReference.cache
+C:\Users\Larissa\Desktop\ListaExercico\slnEX01\prj_EX01\obj\Debug\prj_EX01.Form1.resources
+C:\Users\Larissa\Desktop\ListaExercico\slnEX01\prj_EX01\obj\Debug\prj_EX01.Properties.Resources.resources
+C:\Users\Larissa\Desktop\ListaExercico\slnEX01\prj_EX01\obj\Debug\prj_EX01.csproj.GenerateResource.cache
+C:\Users\Larissa\Desktop\ListaExercico\slnEX01\prj_EX01\obj\Debug\prj_EX01.csproj.CoreCompileInputs.cache
+C:\Users\Larissa\Desktop\ListaExercico\slnEX01\prj_EX01\obj\Debug\prj_EX01.exe
+C:\Users\Larissa\Desktop\ListaExercico\slnEX01\prj_EX01\obj\Debug\prj_EX01.pdb
+D:\Arquivos de Progamas\Dropbox\Dropbox\Programação\C#\ListaExercico\slnEX01\prj_EX01\bin\Debug\prj_EX01.exe.config
+D:\Arquivos de Progamas\Dropbox\Dropbox\Programação\C#\ListaExercico\slnEX01\prj_EX01\bin\Debug\prj_EX01.exe
+D:\Arquivos de Progamas\Dropbox\Dropbox\Programação\C#\ListaExercico\slnEX01\prj_EX01\bin\Debug\prj_EX01.pdb
+D:\Arquivos de Progamas\Dropbox\Dropbox\Programação\C#\ListaExercico\slnEX01\prj_EX01\obj\Debug\prj_EX01.csprojAssemblyReference.cache
+D:\Arquivos de Progamas\Dropbox\Dropbox\Programação\C#\ListaExercico\slnEX01\prj_EX01\obj\Debug\prj_EX01.Form1.resources
+D:\Arquivos de Progamas\Dropbox\Dropbox\Programação\C#\ListaExercico\slnEX01\prj_EX01\obj\Debug\prj_EX01.Properties.Resources.resources
+D:\Arquivos de Progamas\Dropbox\Dropbox\Programação\C#\ListaExercico\slnEX01\prj_EX01\obj\Debug\prj_EX01.csproj.GenerateResource.cache
+D:\Arquivos de Progamas\Dropbox\Dropbox\Programação\C#\ListaExercico\slnEX01\prj_EX01\obj\Debug\prj_EX01.exe
+D:\Arquivos de Progamas\Dropbox\Dropbox\Programação\C#\ListaExercico\slnEX01\prj_EX01\obj\Debug\prj_EX01.pdb
