@@ -1,3 +1,3 @@
-## Proposta
+## Proposta do Exercícios.
 
 João Papo-de-Pescador, homem de bem,comprou um microcomputador para controlar o rendimento diário de seu trabalho. Toda vez que ele traz um peso de peixes maior que o estabelecido pelo regulamento de pesca do estado de São Paulo (50 quilos) deve pagar uma multa de R$ 4,00 por quilo excedente. João precisa que você faça programa em VB.net que leia o peso dos peixes e verifique se há excesso. Se houver, exibir no label4 o númerode quilos que estão em excesso, e nolebal5 o valor da multa que João  deverá  pagar.  Caso  contrário  mostrar  tais  labels  com  o  conteúdo ZERO.
